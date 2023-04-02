@@ -1,4 +1,4 @@
-<h1 align="center"> Habits </h1>
+<h1 align="center"> Calculadora IMC </h1>
 
 <p align="center">
 Projeto feito para a diciplina de eletiva Web da Fatec ITU <br/>
@@ -40,4 +40,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ❤️ by Rocketseat👋
+Feito com ❤️ by Murilo👋

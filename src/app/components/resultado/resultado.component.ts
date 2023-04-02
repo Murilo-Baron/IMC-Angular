@@ -26,7 +26,7 @@ ngOnInit(): void{
 getResultado(){
   if(this.imc > 25){
     this.resultado = 'Excesso de peso';
-    this.interpretacao = 'Tem um peso normal, mas precisa se exercitar!!'
+    this.interpretacao = 'Está acima do peso, precisa se exercitar!!'
   } else if(this.imc >= 18.5){
     this.resultado= 'Normal';
     this.interpretacao = 'Peso normal, bom trabalho amigo!'

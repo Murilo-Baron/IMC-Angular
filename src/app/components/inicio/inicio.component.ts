@@ -8,7 +8,7 @@ import { Router } from '@angular/router';
 })
 export class InicioComponent {
 
-  edad= 25;
+  idade= 25;
   peso= 60;
   altura= 170;
   sexo = 'masculino';
